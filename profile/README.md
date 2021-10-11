@@ -1,11 +1,12 @@
-# :fire: Hellholt :fire:
+# 🔥 Hellholt 🔥
 
-Hellholt is my homelab: a cluster of clusters, some of which contain other clusters, and probably some of those will contain clusters too if they don't already.
+Hellholt is my homelab.  This is where, after a long day of beating my head against other people's infrastructure, I beat my head against my own.
 
 ## 🤩 Latest Stuff
 - Got SSH certificates working!  Instead of yeeting pubkeys into `~/.ssh/authorized_keys`, the setup process now takes slightly longer because of all the slurping and signing!
 - Cluster-wide Traefik reverse proxy with LetsEncrypt, instead of manually adding hosts and certs in HAProxy on my router/firewall.
 - Refactored massively, since the old IaC was a nightmare.
+- Added Bash command for more easily executing the Ansible roles where the 🪄magic happens.
 
 ## 🍦 Cool Stuff
 - Each host gets a MOTD and colorful Bash prompt complete with appropriate emoji corresponding to their house.
