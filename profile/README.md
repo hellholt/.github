@@ -5,6 +5,7 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 ## 🤩 Latest Stuff
 - Got SSH certificates working!  Instead of yeeting pubkeys into `~/.ssh/authorized_keys`, the setup process now takes slightly longer because of all the slurping and signing!
 - Cluster-wide Traefik reverse proxy with LetsEncrypt, instead of manually adding hosts and certs in HAProxy on my router/firewall.
+- Per-host Traefik reverse proxy, rather than having to futz with the node ports.
 - Refactored massively, since the old IaC was a nightmare.
 - Added Bash command for more easily executing the Ansible roles where the 🪄magic🧙‍♂️ happens.
 
@@ -42,7 +43,6 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Move Text from Dayne to Lefford -- is there a textfile management system?
 - Move VideoGames from Dayne to Lefford (these are binary files -- ROMs and such), consider... something.  Launchbox?  IDK.
 - Kubernetes apps, extend and refine GitOps, etc.
-
 
 ## 🙋‍♀️ (Partial) Inventory:
 - 🐴 Ryswell: Dell R720 SFF/128GB/1TB NVMe/Proxmox
