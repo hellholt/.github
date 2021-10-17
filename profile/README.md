@@ -8,6 +8,7 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Per-host Traefik reverse proxy, rather than having to futz with the node ports.
 - Refactored massively, since the old IaC was a nightmare.
 - Added Bash command for more easily executing the Ansible roles where the 🪄magic🧙‍♂️ happens.
+- Setup SyncTube for YouTube archiving.
 
 ## 🍦 Cool Stuff
 - Each host gets a MOTD of a coat of arms and colorful Bash prompt complete with appropriate emoji corresponding to their house.
@@ -16,7 +17,6 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Improve how I handle BorgBackup stuff, add a BorgBase description, split out config, etc.
 - Set up Raspberry Pi cluster.
 - Finish transitioning dotfiles from Ansible-based workflow to YADM.
-- Revamp my YouTube archiving.
 - Revamp my Reddit archiving.
 - Shift Books from Dayne to Lefford, set up book server (probably Ubooquity).
 - Shift Comics from Dayne to Lefford, set up comics server (probably Ubooquity or Komga).
