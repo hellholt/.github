@@ -47,7 +47,7 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Move VideoGames from Dayne to Lefford (these are binary files -- ROMs and such), consider... something.  Launchbox?  IDK.
 - Kubernetes apps, extend and refine GitOps, etc.
 
-## 🙋‍♀️ (Partial) Inventory:
+## 💻 (Partial) Inventory:
 - 🐴 Ryswell: Dell R720 SFF/128GB/1TB NVMe/Proxmox
 - 🦀 Celtigar: Dell R720 SFF/128GB/1TB NVMe/Proxmox
 - ☀️ Lefford: Dell R720XD LFF/128GB/1TB NVMe/6x12TB RAIDZ2/Proxmox
