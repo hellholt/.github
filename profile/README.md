@@ -9,9 +9,13 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Refactored massively, since the old IaC was a nightmare.
 - Added Bash command for more easily executing the Ansible roles where the 🪄magic🧙‍♂️ happens.
 - Setup SyncTube for YouTube archiving.
-
-## 🍦 Cool Stuff
+- Setup Komga for Comics.
 - Each host gets a MOTD of a coat of arms and colorful Bash prompt complete with appropriate emoji corresponding to their house.
+
+## 👴 Stuff I've Learned
+- Yeah, hosting your blog on Kubernetes is a joke, but... really... Kubernetes is overkill and unnecessary complexity for a homelab and I wouldn't be bothering with it if it weren't for work.  Now learning this for a second time.
+- Cert-Manager's pattern of using secrets to store certs introduces complexity for backup/restore I don't really want to bother with.  It's easier just to do TLS termination outside Kubernetes clusters with Traefik and persist generated certs in the filesystem.
+- I never really need to SSH from one host to another; just from my local/control machine into one host or another.  The various mucking around I've done with SSH (first orchestrating SSH pub key circulation, and then SSH certificates) has been really unnecessary.  I just like the idea.
 
 ## 🔮 Future Stuff
 - Improve how I handle BorgBackup stuff, add a BorgBase description, split out config, etc.
@@ -19,7 +23,6 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Finish transitioning dotfiles from Ansible-based workflow to YADM.
 - Revamp my Reddit archiving.
 - Shift Books from Dayne to Lefford, set up book server (probably Ubooquity).
-- Shift Comics from Dayne to Lefford, set up comics server (probably Ubooquity or Komga).
 - Shift Device archives from Dayne to Lefford.
 - Add second 6x12TB RAIDZ2 to Lefford.
 - Revamp Torrent client orchestrator.
