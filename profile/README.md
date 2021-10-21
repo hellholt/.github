@@ -9,6 +9,7 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Refactored massively, since the old IaC was a nightmare.
 - Added Bash command for more easily executing the Ansible roles where the 🪄magic🧙‍♂️ happens.
 - Each host gets a MOTD of a coat of arms and colorful Bash prompt complete with appropriate emoji corresponding to their house.
+- Added Organizr so I know how to get to all of this crap.
 
 ## 👴 Stuff I've Learned
 - Yeah, hosting your blog on Kubernetes is a joke, but... really... Kubernetes is overkill and unnecessary complexity for a homelab and I wouldn't be bothering with it if it weren't for work.  Now learning this for a second time.
@@ -29,15 +30,12 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Docker pullthrough registry.
 - Install SAS HDDs on Ryswell or Celtigar for lulz
 - Wireguard
-- Organizr
 - Shift Documents from Dayne to Lefford.
 - Improve Download management.
 - Move Games from Dayne to Lefford (these are RPGs, etc), consider a document management system or something similar.
 - Move Images from Dayne to Lefford, consider some kind of image management system.
 - Move Magazines from Dayne to Lefford, consider a magazine management system (Ubooquity?).
 - Move Photos from Dayne to Lefford, consider some kind of photo management system.
-- Move Plunking (TL;DR: all of my music books) from Dayne to Lefford, consider a document management system.
-- Move Podcasts from Dayne to Lefford, revamp podcast archiving.
 - Move Software from Dayne to Lefford.
 - Move Tech (tech-specific books) from Dayne to Lefford, set up another book server (probably Ubooquity).
 - Move Text from Dayne to Lefford -- is there a textfile management system?
