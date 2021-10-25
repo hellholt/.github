@@ -10,6 +10,7 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Added Bash command for more easily executing the Ansible roles where the 🪄magic🧙‍♂️ happens.
 - Each host gets a MOTD of a coat of arms and colorful Bash prompt complete with appropriate emoji corresponding to their house.
 - Added Organizr so I know how to get to all of this crap.
+- Much better renders of the shields for MOTD.
 
 ## 👴 Stuff I've Learned
 - Yeah, hosting your blog on Kubernetes is a joke, but... really... Kubernetes is overkill and unnecessary complexity for a homelab and I wouldn't be bothering with it if it weren't for work.  Now learning this for a second time.
