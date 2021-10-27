@@ -34,9 +34,9 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - Shift Documents from Dayne to Lefford.
 - Improve Download management.
 - Move Games from Dayne to Lefford (these are RPGs, etc), consider a document management system or something similar.
-- Move Images from Dayne to Lefford, consider some kind of image management system.
+- Move Images from Dayne to Lefford, consider some kind of image management system ([Photoprism](https://github.com/photoprism/photoprism)?).
 - Move Magazines from Dayne to Lefford, consider a magazine management system (Ubooquity?).
-- Move Photos from Dayne to Lefford, consider some kind of photo management system.
+- Move Photos from Dayne to Lefford, consider some kind of photo management system ([Photoprism](https://github.com/photoprism/photoprism)?).
 - Move Software from Dayne to Lefford.
 - Move Tech (tech-specific books) from Dayne to Lefford, set up another book server (probably Ubooquity).
 - Move Text from Dayne to Lefford -- is there a textfile management system?
