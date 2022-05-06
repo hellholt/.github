@@ -48,7 +48,7 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - 🦀 Celtigar: Dell R720 SFF/128GB/1TB NVMe/Proxmox
 - ☀️ Lefford: Dell R720XD LFF/128GB/1TB NVMe/6x12TB RAIDZ2/Proxmox
 - 💫 Dayne: Synology DS1813+/6GB/8x12TB Ext4 SHR-2/DSM
-- 🔥 Uller: Synology DS2415+/16GB/6x12TB BtrFs SHR-2/6x3TB BtrFs SHR-2/DSM
+- 🔥 Uller: Synology DS2415+/16GB/12x12TB BtrFs SHR-2/DSM
 - 🍎 Fossoway: Apple 2015 MacBook Pro/16GB/1TB/macOS
 
 <!--
