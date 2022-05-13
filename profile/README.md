@@ -20,6 +20,8 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - I never really need to SSH from one host to another; just from my local/control machine into one host or another.  The various mucking around I've done with SSH (first orchestrating SSH pub key circulation, and then SSH certificates) has been really unnecessary.  I just like the idea.
 
 ## 🔮 Future Stuff
+- Move Traefik to Marbrand (Firewall), shift sitewide proxy configuration into separate role.
+- Maybe shift SSH certificate management to something like HashiCorp Vault.
 - Continue splitting out stuff from huge hellholt.setup_host Ansible role into more focused roles.
 - Install Code-Server on each LXC container.
 - Improve how I handle BorgBackup stuff, add a BorgBase description, split out config, etc.
