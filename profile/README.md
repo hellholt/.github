@@ -3,6 +3,8 @@
 Hellholt is my homelab.  This is where, after a long day of beating my head against other people's infrastructure, I beat my head against my own.
 
 ## 🤩 Latest Stuff
+- Revamped Torrent client orchestrator.
+- Finished transitioning dotfiles from Ansible-based workflow to YADM.
 - Got SSH certificates working!  Instead of yeeting pubkeys into `~/.ssh/authorized_keys`, the setup process now takes slightly longer because of all the slurping and signing!
 - Cluster-wide Traefik reverse proxy with LetsEncrypt, instead of manually adding hosts and certs in HAProxy on my router/firewall.
 - Per-host Traefik reverse proxy, rather than having to futz with the node ports.
@@ -18,29 +20,20 @@ Hellholt is my homelab.  This is where, after a long day of beating my head agai
 - I never really need to SSH from one host to another; just from my local/control machine into one host or another.  The various mucking around I've done with SSH (first orchestrating SSH pub key circulation, and then SSH certificates) has been really unnecessary.  I just like the idea.
 
 ## 🔮 Future Stuff
+- Continue splitting out stuff from huge hellholt.setup_host Ansible role into more focused roles.
+- Install Code-Server on each LXC container.
 - Improve how I handle BorgBackup stuff, add a BorgBase description, split out config, etc.
 - Set up Raspberry Pi cluster.
-- Finish transitioning dotfiles from Ansible-based workflow to YADM.
 - Revamp my Reddit archiving.
 - Shift Device archives from Dayne to Lefford.
 - Add second 6x12TB RAIDZ2 to Lefford.
-- Revamp Torrent client orchestrator.
 - Move Home Assistant from a VM to an LXC container.
 - Add Musicbrainz mirror.
 - Make Last Will and Testament, lol, so my wife knows how to dismantle and sell this crap when I die.
 - Docker pullthrough registry.
 - Install SAS HDDs on Ryswell or Celtigar for lulz
 - Wireguard
-- Shift Documents from Dayne to Lefford.
 - Improve Download management.
-- Move Games from Dayne to Lefford (these are RPGs, etc), consider a document management system or something similar.
-- Move Images from Dayne to Lefford, consider some kind of image management system ([Photoprism](https://github.com/photoprism/photoprism)?).
-- Move Magazines from Dayne to Lefford, consider a magazine management system (Ubooquity?).
-- Move Photos from Dayne to Lefford, consider some kind of photo management system ([Photoprism](https://github.com/photoprism/photoprism)?).
-- Move Software from Dayne to Lefford.
-- Move Tech (tech-specific books) from Dayne to Lefford, set up another book server (probably Ubooquity).
-- Move Text from Dayne to Lefford -- is there a textfile management system?
-- Move VideoGames from Dayne to Lefford (these are binary files -- ROMs and such), consider... something.  Launchbox?  IDK.
 - Kubernetes apps, extend and refine GitOps, etc.
 
 ## 💻 (Partial) Inventory:
