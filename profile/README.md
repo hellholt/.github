@@ -3,6 +3,7 @@
 Hellholt is my homelab.  This is where, after a long day of beating my head against other people's infrastructure, I beat my head against my own.
 
 ## 🤩 Latest Stuff
+- Set up PCIe passthrough, though I need to fully parameterize this.
 - Revamped Torrent client orchestrator.
 - Finished transitioning dotfiles from Ansible-based workflow to YADM.
 - Got SSH certificates working!  Instead of yeeting pubkeys into `~/.ssh/authorized_keys`, the setup process now takes slightly longer because of all the slurping and signing!
