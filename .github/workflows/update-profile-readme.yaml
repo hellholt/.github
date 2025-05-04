@@ -35,5 +35,5 @@ jobs:
         id: update-profile-readme
         uses: bitterbridge/github-actions/update-profile-readme@v0.0.29
         with:
-          owner: 'bitterbridge'
+          owner: 'hellholt'
           github-token: ${{ steps.get-github-token.outputs.github-token }}
