@@ -4,7 +4,7 @@
 Hellholt is for more personal things; my dotfiles, blog, other writing, etc. The emphasis here is generally my personal use or reflection.
 
 ## Repositories
-- ❓ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
+- 🛡️ [asoiaf-noble-house-images](https://github.com/hellholt/asoiaf-noble-house-images): Images derived from arms from noble houses of ASoIaF.
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
@@ -12,3 +12,4 @@ Hellholt is for more personal things; my dotfiles, blog, other writing, etc. The
 - 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets): A list of cheatsheets and reminders I've made for personal reference.
 - 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
 - ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
+- 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
