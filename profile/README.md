@@ -9,3 +9,4 @@ Hellholt is for more personal things; my dotfiles, blog, other writing, etc. The
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 🖨️ [cheatsheets](https://github.com/hellholt/cheatsheets)
