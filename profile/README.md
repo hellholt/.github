@@ -14,6 +14,7 @@ Hellholt is for more personal things; my dotfiles, blog, other writing, etc. The
 - ✅ [todo](https://github.com/hellholt/todo): A repository to track all of the things I should be doing right now...
 - 🥅 [goals](https://github.com/hellholt/goals): All of the things I want to do.
 - 🎓 [phd-ideas](https://github.com/hellholt/phd-ideas): Ideas I have for potential PhD theses.
+- 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
 
 
 ## Permissions
