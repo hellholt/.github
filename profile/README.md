@@ -1,11 +1,15 @@
-# 🔥 Hellholt 🔥
+# 🔥 Hellholt
 ( <span style="display:inline-block; min-width: 2em;">🌀</span>[ndouglas](https://github.com/ndouglas/) | <span style="display:inline-block; min-width: 2em;">🌉</span>[bitterbridge](https://github.com/bitterbridge/) | <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[hellholt](https://github.com/hellholt/) | <span style="display:inline-block; min-width: 2em;">🦷</span>[goldentooth](https://github.com/goldentooth/) )
 
-Hellholt is for more personal things; my dotfiles, blog, other writing, etc. The emphasis here is generally my personal use or reflection.
+Hellholt is my **personal core** — the quiet hearth where tools are tuned for daily use, ideas are distilled into words, and systems are shaped to fit the self.
+Here you’ll find dotfiles, blog posts, PhD musings, and lists of ideas.
 
-## Repositories
+---
+
+## 📦 Repositories
+
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
-- ❓ [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
+- 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
 - 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
@@ -21,8 +25,12 @@ Hellholt is for more personal things; my dotfiles, blog, other writing, etc. The
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
 
 
-## Permissions
-I'm releasing everything I create here under an [Unlicense](https://choosealicense.com/licenses/unlicense/) in the hopes that it proves interesting or useful to other engineers.
+---
+
+## 🪪 License
+
+Everything here is released under the [Unlicense](https://unlicense.org/) —
+feel free to use, fork, or remix anything that sparks curiosity.
 
 ---
 
