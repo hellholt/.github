@@ -10,8 +10,8 @@ Here you’ll find dotfiles, blog posts, PhD musings, and lists of ideas.
 
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
-- 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
 - 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
+- 💡 [ideas](https://github.com/hellholt/ideas): A repository just for ideas, since I'm having them faster than I can finish them...
 - 📐 [projects](https://github.com/hellholt/projects): Projects I'm planning to do in the next little bit. (Will obviously grow dramatically over time.)
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
