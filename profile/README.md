@@ -8,8 +8,8 @@ Here you’ll find dotfiles, blog posts, PhD musings, and lists of ideas.
 
 ## 📦 Repositories
 
-- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
