@@ -1,8 +1,7 @@
 # 🔥 Hellholt
 ( <span style="display:inline-block; min-width: 2em;">🌀</span>[ndouglas](https://github.com/ndouglas/) | <span style="display:inline-block; min-width: 2em;">🌉</span>[bitterbridge](https://github.com/bitterbridge/) | <span style="display:inline-block; min-width: 2em;">️‍🔥</span>[hellholt](https://github.com/hellholt/) | <span style="display:inline-block; min-width: 2em;">🦷</span>[goldentooth](https://github.com/goldentooth/) )
 
-Hellholt is my **personal core** — the quiet hearth where tools are tuned for daily use, ideas are distilled into words, and systems are shaped to fit the self.
-Here you’ll find dotfiles, blog posts, PhD musings, and lists of ideas.
+Hellholt used to be my homelab. Now it's kind of my dotfiles, I guess. I don't know.
 
 ---
 
