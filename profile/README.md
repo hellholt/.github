@@ -7,9 +7,9 @@ Hellholt used to be my homelab. Now it's kind of my dotfiles, I guess. I don't k
 
 ## 📦 Repositories
 
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
-- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
+- 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
