@@ -7,9 +7,9 @@ Hellholt used to be my homelab. Now it's kind of my dotfiles, I guess. I don't k
 
 ## 📦 Repositories
 
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
-- 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - ❓ [sillicoin-valley-tycoon](https://github.com/hellholt/sillicoin-valley-tycoon): A satirical game about how stupid everything is right now.
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
