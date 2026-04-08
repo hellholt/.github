@@ -7,12 +7,12 @@ Hellholt used to be my homelab. Now it's kind of my dotfiles, I guess. I don't k
 
 ## 📦 Repositories
 
-- 👋 [.github](https://github.com/hellholt/.github): Special Repository
+- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 🚜 [terraform](https://github.com/hellholt/terraform): General Terraform Infrastructure-as-Code for Hellholt
+- 👋 [.github](https://github.com/hellholt/.github): Special Repository
 - 📺 [youtube](https://github.com/hellholt/youtube): YouTube channels I archive (and occasionally watch).
 - 📚 [books](https://github.com/hellholt/books): Books I want to read, intend to read, am putting off reading, am reading, am taking a break from reading, am finishing, have finished, or desperately want to have finished.
 - ✍️ [blog](https://github.com/hellholt/blog): My blog, written and maintained by Hugo.
-- 🧿 [dotfiles](https://github.com/hellholt/dotfiles): My dotfiles, somewhat more reasonably structured.
 - 👩 [pinkmaiden](https://github.com/hellholt/pinkmaiden): A personal image-sharing site for images I find interesting.
 - 🎤 [podcasts](https://github.com/hellholt/podcasts): Podcasts I listen to and archive.
 - 🎵 [albums](https://github.com/hellholt/albums): A collection of YAML lists of albums in my listening queue
